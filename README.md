@@ -23,14 +23,14 @@
 #### :fire: My Stats :
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) 
 
- <!-- <a href="https://github.com/sudheerj">
+ <a href="https://github.com/sudheerj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
 </a>
 <a href="https://github.com/sudheerj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
-</a> -->
+</a>
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
